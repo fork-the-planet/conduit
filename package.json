@@ -44,7 +44,7 @@
         ]
     },
     "dependencies": {
-        "@clerk/clerk-expo": "^2.19.22",
+        "@clerk/clerk-expo": "^2.19.31",
         "@noble/curves": "^1.6.0",
         "@react-native-async-storage/async-storage": "2.1.2",
         "@react-native-community/cli": "^19.1.1",
@@ -89,7 +89,7 @@
         "zod": "^3.23.8"
     },
     "devDependencies": {
-        "@babel/core": "^7.20.0",
+        "@babel/core": "^7.29.6",
         "@trivago/prettier-plugin-sort-imports": "^4.3.0",
         "@types/jest": "^29.5.12",
         "@types/react": "~19.0.0",
